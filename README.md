@@ -37,3 +37,10 @@ pip install -r requirements.txt
 ~~~
 streamlit run app.py
 ~~~
+
+## Screenshots 
+1- For Generation 
+![App Screenshot](Generation.png)
+
+2- For Explaination
+![App Screenshot](Explaination.png)
