@@ -40,7 +40,7 @@ streamlit run app.py
 
 ## Screenshots 
 1- For Generation 
-![App Screenshot](Generation.png)
+![App Screenshot](Generatation.png)
 
 2- For Explaination
 ![App Screenshot](Explaination.png)
